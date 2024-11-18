@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="pc_color">#FF222222</color>
+    <color name="sc_color">#FFFF6D1F</color>
+    <color name="tc_color">#FFF5E7C6</color>
+    <color name="cc_color">#FFFAF3E1</color>
+</resources>
